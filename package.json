@@ -16,7 +16,7 @@
     "@angular/core": "^10.1.0",
     "@babel/cli": "^7.19.3",
     "axios": "0.1.0",
-    "bootstrap": "4.1.0"
+    "bootstrap": "4.6.2"
   },
   "author": "SVGray",
   "license": "ISC"
