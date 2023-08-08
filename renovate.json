@@ -2,5 +2,14 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
-  ]
+  ],
+  "hostRules": [
+    {
+      "matchHost": "https://gitlab.com/api/v4/packages/npm/",
+      "hostType": "npm",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ//TNVJrw3dGiST0DX9kkmb6/kbc3WNCkvvOxwUOL3UMORWOVSnXU3722KqMnOqwzTJXb2J74bYl8AtAsxXWsKxdKGZNV0qu3DnZYy2K4j9BtLvtChrnKcV605jxzXVD49dhyYJVz2OAh1232ECuoDfrAnDwnPjb34LZubBPNaos8qWm1RMN6G+OqQBFj/jLVpk2oxmTkNF+2JCZBdo5AaQ+xhK/USlLoEt1FpNfy5s6Nh6UqhXnabv3y68wmjMGnVtUgQ5tgNfK2KG9aceZHEJsLeJoFnVhjZlbHKDzYcdUxj2CBWgRZM26IWxiAGJQrKI+TJrFIp8kl5ntyd1reEKO8o/lhRWSOu4laF7NUx1UeuUF6DaXFUfc5h2tKSy7NMke1XyJy88+dpU6BvajDoOKySSqqMUIaqR92g1lbYZ5o9LQdJNcLhpJBYUQsZmKcBzKbf5R3vtLab1XdB+zyjj2F99XxhYtmOrGbWaDiFMNGalgchyEDnqK2BYrOvU6OV+kAjOgSmH+GpP5fKeWP8cylLHL4/vNK8tKq7kyTEk86Uu4FcnDCf5+dlxyOlGiSsCGEsRtSZILdVGoBeLAZQLE0R6SYQ5vZWJ1RSauE9YrSYqVCWVyeAFpyF9GSxwuHWnqXV3wfKBHI5hZczTkhGWnJ7n7NzNuxuA5QMENmXMEDjSbwG8r0acxdvpeZhoLZiPZ61JsarIiRA/Q2VwT3zIQPW9sd1uWkm40rvWINEiEQ84D2pbQemuqZokr4MSq8YXdmFtsMpIIFdxHgxYTJ/Xz4GZN7joHiH2wCzJOJYrbzvX6pL1iVM4EctD674hPXW5DA"
+      }
+    }
+  ] 
 }
