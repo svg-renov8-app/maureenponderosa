@@ -10,13 +10,9 @@
     "url": "http://ec2-3-133-17-3.us-east-2.compute.amazonaws.com/SVGGHE/maureen.git"
   },
   "dependencies": {
-    "@angular/core": "^10.1.0",
-    "@babel/cli": "^7.19.3",
-    "axios": "0.1.0",
-    "bootstrap": "4.1.0"
+    "@mend-support/totally-fake-npm-package": "^2.0.0"
   },
   "devDependencies": {
-    "@mend-support/totally-fake-npm-package": "^2.0.0",
     "@angular/core": "^10.1.0",
     "@babel/cli": "^7.19.3",
     "axios": "0.1.0",
