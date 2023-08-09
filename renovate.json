@@ -11,5 +11,6 @@
         "token": "wcFMA/xDdHCJBTolAQ/5AfvPxPlD5BWlnyOL3xIyXkq8CUQR3FkJ8xu1O50x5zYIG5ezZouM1HRIgcecvQO0DseEpdXWCA/+WL71ozOE1ZqEflikNN6AbyWqoiiGwSTQK6TccMTFlkhEn9oeVqmQ5ZfunXhPCJcMB4PoHH6a1dwFV8Svr6JvqD1RTwOBnKywunSFlLp8/nJiYPrMgGUDs0YnOM7XdyC+3okreNE6O0RZQI2yy7bwtJUBt/+yaz78a5MarR4uzFY0L3YJSEr6nYCM7Vnpvz7Xp/3DsFq4jD2zY8la0J6UUtO0QORX1R45ss0MQK8M2UPaFOS7V73/vmrhXcLdWS9H4L5z+gX/2hh++Bj8XahwKmoFIhiQapSknhZLPAID+NCZc/2xail+VYEUe3FQUE6nEik78jZGLnaBm6eeWYbs0YOpNKgwKbZec1uarmnCBD1kQNsL5/VziXERjvc4Uo5cpStiDw0dOrk+W1VHD6Wz72bPm/1G49OUwyL3uZLEnY9bsD3+Wqx4JhAbeeMValGlCGs3giu77Cnq+Bjeas8/rV/MmR1E4gZZq/2CDFObpv+soEEYK0YzVSQIyrrBNaMv7YgDr7EApxJ/bkW6ROY5p/dGFLLqYrKopojcP3+3FTJOYURxs73QLrgAlKaxK96h6GfB0q6WOde4dcTjZYuRSTKzdgkTPUbSbwHHcfi8xEkVDq/N9HuNLiQjPgZARpy/x0Vepva82pfof+/QklgwgR6Nrcrf2xMOgmqHJEAAyB8hMZQCUTjA1Wo5uZQ0zdc+q32PI+NNmOE3DsU+FZRQ1PWC0VSFlaVvjbwUeLdXic6UD9HLvt2w5Q"
       }
     }
-  ] 
+  ],
+  "npmrc": "@mend-support:registry=https://gitlab.com/api/v4/packages/npm/"
 }
