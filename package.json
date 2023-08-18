@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@mend-support/totally-fake-npm-package": "^2.0.0",
-    "gulp": "^4.0.2"
+    "@mend-support/marginally-fake-npm-package": "^1.0.0"
   },
   "devDependencies": {
     "@angular/core": "^10.1.0",
