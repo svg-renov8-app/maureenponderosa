@@ -10,7 +10,7 @@
     "url": "http://ec2-3-133-17-3.us-east-2.compute.amazonaws.com/SVGGHE/maureen.git"
   },
   "dependencies": {
-    "@mend-support/totally-fake-npm-package": "^2.0.0",
+    "@mend-support/totally-fake-npm-package": "^3.0.0",
     "@mend-support/marginally-fake-npm-package": "^1.0.0"
   },
   "devDependencies": {
